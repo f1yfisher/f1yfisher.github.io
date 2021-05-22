@@ -1,5 +1,5 @@
 # Site settings
-title: 国盛 Blog
+title: GS Blog
 SEOTitle: 国盛的博客 | GS Blog
 header-img: img/post-bg-desk.jpg
 email: zhoags2020@qq.com
@@ -20,7 +20,7 @@ sidebar-avatar: /img/xiaolan.jpg      # use absolute URL, seeing it's used in bo
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    shengfighter
+github_username:    gonsong
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 821d22cd1e76ee41c4ac                            #生成的clientID
   clientSecret: 132acc9e325e30eb214b9cc3b76a60840ba8d7d8    #生成的clientSecret
-  repo: shengfighter.github.io    #仓库名称
-  owner: shengfighter    #github用户名
-  admin: shengfighter
+  repo: PingLun.github.io    #仓库名称
+  owner: gonsong    #github用户名
+  admin: gonsong
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
