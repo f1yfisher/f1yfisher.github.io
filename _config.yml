@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 821d22cd1e76ee41c4ac                            #生成的clientID
-  clientSecret: 132acc9e325e30eb214b9cc3b76a60840ba8d7d8    #生成的clientSecret
+  clientID: ac882a19a975f1cdbe83                            #生成的clientID
+  clientSecret: b00953bc24054fcc9638a549cf8a4e06dd2c07b2    #生成的clientSecret
   repo: PingLun.github.io    #仓库名称
   owner: gonsong    #github用户名
   admin: gonsong
