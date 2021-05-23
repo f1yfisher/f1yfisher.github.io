@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: zhoags2020@qq.com
 description: "Every failure is leading towards success."
 keyword: "machine learning, deep learning, image process"
-url: "https://gonsong.github.io"          # your host, for absolute URL
+url: "https://f1yfisher.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/gonsong/gonsong.github.io.git" # you code repository
+github_repo: "https://github.com/f1yfisher/f1yfisher.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/xiaolan.jpg      # use absolute URL, seeing it's used in bo
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    gonsong
+github_username:    f1yfisher
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -65,8 +65,8 @@ gitalk:
   clientID: f3cc799a6a88d7686071                            #生成的clientID
   clientSecret: 1390d9a9efa662b14c37fd88ea7e2da397e85e5e    #生成的clientSecret
   repo: PingLun    #仓库名称
-  owner: gonsong    #github用户名
-  admin: gonsong
+  owner: f1yfisher    #github用户名
+  admin: f1yfisher
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
