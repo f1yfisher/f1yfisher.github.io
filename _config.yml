@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f3cc799a6a88d7686071                            #生成的clientID
-  clientSecret: 1390d9a9efa662b14c37fd88ea7e2da397e85e5e    #生成的clientSecret
+  clientID: b1028ad4a6231d7029df                            #生成的clientID
+  clientSecret: 6eff23867791de25bd2160216f3840803e54c721    #生成的clientSecret
   repo: PingLun    #仓库名称
   owner: f1yfisher    #github用户名
   admin: f1yfisher
