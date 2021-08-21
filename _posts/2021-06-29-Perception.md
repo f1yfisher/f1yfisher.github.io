@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 感知机
-data: 2021-06-29
+date: 2021-06-29
 author: zhaogs
 header-img: img/post-bg-kuaidi.jpg
 catalog: true
