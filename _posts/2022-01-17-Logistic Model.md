@@ -3,7 +3,7 @@ layout: post
 title: 逻辑斯谛回归
 date: 2022-01-17
 author: zhaogs
-header-img: img/post-bg-sky.png
+header-img: img/post-bg-sky.jpg
 catalog: true
 tags:
       - 读书笔记
@@ -22,6 +22,8 @@ $$
 
 \end{aligned}
 $$
+
+
 还有一个隐含条件，所有的后验概率和为1，即$$\sum_{i=1}^Mp(\omega_i\vert x)=1$$
 
 因此可以解得
@@ -33,6 +35,8 @@ p(\omega_M|x)&=\frac{1}{1+\sum_{i=1}^{M-1}\exp(w_{i,0}+w_i^Tx)}\\
 p(\omega_i|x)&=\frac{\exp(w_{i,0}+w_i^Tx)}{1+\sum_{i=1}^{M-1}\exp(w_{i,0}+w_i^Tx)},\ i=1,2,..,M-1\\
 \end{aligned}
 $$
+
+
 对于二类问题则有
 
 
@@ -60,6 +64,8 @@ $$
 $$
 L(\theta)=\ln \left(\prod_{k=1}^{N_1}p(\omega_1|x_k;\theta)\right)+\ln \left(\prod_{k=1}^{N_2}p(\omega_2|x_k;\theta)\right)+\ln \left(\frac{\prod_{k=1}^Nx_k}{\prod_{m=1}^2p(\omega_m)^{N_m}}\right)
 $$
+
+
 对上进行$$\arg\max_\theta L(\theta)$$运算即可求解得到$$w_0,w$$。
 
 #### 3. 总结
