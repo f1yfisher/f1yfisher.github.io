@@ -26,7 +26,7 @@ tags:
 
 Prewitt算子设置周围像素点对中心像素点的贡献相同，因此可以可以得到如下的两个算子
 
-![edge_1](img/edge_1.png)
+![edge_1](/img/edge_1.png)
 
 从算子的结构可以看出此算子可以用来提取图像的水平边缘与垂直边缘，同时该算子还可以平滑另一个方向上的噪声
 
@@ -34,17 +34,17 @@ Prewitt算子设置周围像素点对中心像素点的贡献相同，因此可�
 
 与Prewitt算子相似，Sobel算子根据距离中心像素点的位置调整了周围像素点的权重，具体如下
 
-![edge_2](img/edge_2.png)
+![edge_2](/img/edge_2.png)
 
 ##### 3. LoG（Laplacian of Gaussian）
 
 与上述两个算子不同，这个方法是使用二阶微分算子来实现，laplacian算子的结构如下
 
-![edge_3](img/edge_3.png)
+![edge_3](/img/edge_3.png)
 
 由于laplacian算子对噪声比较敏感，直接使用此算子对图像进行边缘检测效果不是很好，因此在使用此算子之前可以使用Gaussian函数对图像进行平滑滤波，将这两步结合可以得到LoG算子
 
-![edge_4](img/edge_4.png)
+![edge_4](/img/edge_4.png)
 
 可以看出Laplacian算子与LoG算子，都是使用一个算子来实现对图像的边缘提取，这使得在提取图像是边缘特征时，只能得到边缘的赋值大小，而不能得到边缘的方向信息。
 
