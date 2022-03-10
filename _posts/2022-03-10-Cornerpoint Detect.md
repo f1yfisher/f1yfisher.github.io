@@ -59,6 +59,8 @@ tags:
    \end{matrix}\right)
    \end{aligned}
    $$
+   
+
    令$$M=\sum_{x,y}w(x,y)\left(\begin{matrix}I_x^2&I_xI_y\\I_xI_y&I_y^2\end{matrix}\right)$$，可以看出$$M$$矩阵是一个以$$I_x,I_y$$为变量的协方差矩阵​，通过观察不同情况下的分布可以得出如下结论
 
    ![corner_3](/img/post/corner_3.png)
@@ -79,7 +81,7 @@ tags:
 
    ![corner_5](/img/post/corner_5.png)
 
-   当$$|R|$$较小时，说明当前位置为平坦区域，当$$R<0$$时，说明当前位置处于边缘位置，当$$R>0$$且数值较大时，说明当前位置为角点。增大$$k$$值，会降低角点检测的灵敏度，反之则会增加角点检测的灵敏度。
+   当$$\vert R\vert$$较小时，说明当前位置为平坦区域，当$$R<0$$时，说明当前位置处于边缘位置，当$$R>0$$且数值较大时，说明当前位置为角点。增大$$k$$值，会降低角点检测的灵敏度，反之则会增加角点检测的灵敏度。
 
 2. FAST(Features from Accelerated Segment Test)
 
