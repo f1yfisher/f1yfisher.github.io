@@ -1,0 +1,58 @@
+
+# Created by https://www.gitignore.io/api/macos
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# End of https://www.gitignore.io/api/macos
+
+# debug file
+_site
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0a/c02192e8dd3dcc5411282b2d75f2615fccb17f43fdcf8963ce97270c62f561
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/1f/c9dce100824f241531f074fb18dd21481d91af51cd61279328ce9c915f5774
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/21/8eacb15b295b107dbc18863e0ad3a44fee1c92e4a58b6f14c5593eabaa8458
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/38/71fda84d83c3a63a6b6c8ec7b320ed9889cca9870016790e8eb2cb649deef0
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/39/7b57d61e5bce64c2e8091f01cb0a1f86d49df3231192adc303e44d4df62c74
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5c/ae5f009bdac4b352ab3ac8bced6b42420cffc140b693cecb1d813ec5ffd99b
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5d/4f148a8bc26ac151b0363f9bd1c45d96b970ca8a2c6e71871ab2e155eac791
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/60/7cafc84be98c899331af8d03a9ce50444c43acdc53dbc0b56c1fa447897e2e
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/62/6c7bec82751ca4a63cba5258b5de8c1013be722570b78a8e3183ee031c9401
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6c/a515843cc9c0722de12043a52a621c3ac9d3f5f2948b0613f05119f576edeb
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6c/ad59cc9391dfb6007cd98f8057fdef18eca75632a17c34566b8f9e28dd6d56
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6f/f2f83ae09866f63cdc5b3e79705f311d1bc527e4c1244202d433124d26ca37
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/78/5345a1755601a0628321fbb1f7e3435b772a03a200e2d14346247586263a80
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7d/ba31b48074a97afc8f5295e7483854bd6e6e1d4085ec7097090eb1ebb5b515
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b3/18caca7c0ff2d382889f93572a2f180be634e26b27849ae879db1be058d666
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bc/179134dffcc59f177f6a96a627514fc023af2945a3daf69ab14927dd1f78bc
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/cc/b8331695c37b77790ea7bf0396214cb8714add9b45afabcb0a9012a006c2c5
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f2/a5ac3e7a4c09d4a7f718d506a17da376c844c404c24c00348f7249eba58988
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fd/d9b1cc6d8d165f81128b29f25d109dd4cc9d29a35da7e783356c00b822d2fd
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ff/dd29cdd71cf1b15a1a92373b9b266bd18fcaa91d80ba2cb42c4bdd7da9927d
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/92/88ffe0ac3eeac3e075ee3bc3426a39c563ab59ce09e0723a2ff4586272bcc6
+.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3a/bc67f5e071b8d4797e7392af0ae2955553d0e90e8cb8250f76314512ae16b2
